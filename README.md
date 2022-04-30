@@ -7,7 +7,10 @@
   <a href="https://github.com/andersonsf90">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonsf90&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsf90&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonsf90&theme=dracula" />
+  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=andersonsf90&theme=dracula" alt="GitHub Commits Graph" />
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -37,7 +40,12 @@
 
  
 </div>
-   <h3> Visitantes </h3>  
+<h3> Visitantes </h3>  
 <div>
    <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=andersonsf90&color=green" alt="alexsgross" /> <br>
+</div>
+<h3> Followers </h3>  
+<div>  
+  <a href="https://www.github.com/andersonsf90" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/andersonsf90?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </div>
