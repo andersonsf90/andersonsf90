@@ -10,6 +10,11 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonsf90&theme=dracula" />
   <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=andersonsf90&theme=dracula" alt="GitHub Commits Graph" />
 </div>
+<p align="left">
+<a href="https://github.com/andersonsf90">
+<img width="56%" src="https://github-readme-stats.vercel.app/api?username=andersonsf90&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="44%" src="http://github-readme-streak-stats.herokuapp.com?user=andersonsf90&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
+ <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonsf90&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="57%" src="https://activity-graph.herokuapp.com/graph?username=andersonsf90&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" /></a>
+</p>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
