@@ -4,23 +4,19 @@
 - 🌱 I’m currently learning React.
 
 <div align="center">
-  <a href="https://github.com/andersonsf90">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonsf90&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsf90&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonsf90&theme=dracula" />
-  <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=andersonsf90&theme=dracula" alt="GitHub Commits Graph" />
-</div>
+
+
 <p align="left">
 <a href="https://github.com/andersonsf90">
 <img width="56%" src="https://github-readme-stats.vercel.app/api?username=andersonsf90&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="44%" src="http://github-readme-streak-stats.herokuapp.com?user=andersonsf90&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonsf90&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="57%" src="https://activity-graph.herokuapp.com/graph?username=andersonsf90&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" /></a>
 </p>
-  
+</div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
