@@ -1,7 +1,7 @@
 ### Hi there, call me Andy 👋
 
-- 👾 I'm currently working on web development with PHP 8.1 and Angular 13.
-- 🌱 I’m currently learning React.
+- 👾 I'm currently working on web development with Java ande C#.
+- 🌱 I’m currently learning React for front-end development with Java Spring.
 
 <div align="center">
 
