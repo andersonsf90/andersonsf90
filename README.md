@@ -1,7 +1,7 @@
 ### Hi there, call me Andy 👋
 
-- 👾 I'm currently working on web development with Java Spring and Oracle APEX .
-- 🌱 I’m currently learning React for front-end development with Java Spring.
+- 👾 I'm currently working on IBM mainframe support with IBM MQ and IIB.
+
 
 <div align="center">
 
