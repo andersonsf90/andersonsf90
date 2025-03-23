@@ -8,7 +8,7 @@
 
 <p align="left">
 <a href="https://github.com/andersonsf90">
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonsf90&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="57%" src="https://activity-graph.herokuapp.com/graph?username=andersonsf90&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF"/></a>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonsf90&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/></a>
 </p>
 </div>  
 <div style="display: inline_block"><br>
